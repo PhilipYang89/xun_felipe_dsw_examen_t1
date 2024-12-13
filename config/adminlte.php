@@ -316,6 +316,11 @@ return [
             'text' => 'search',
         ],
         [
+            'text' => 'Mensajes',
+            'url' => 'messages',
+            'icon' => 'far fa-fw fa-file',
+        ],
+        [
             'text' => 'blog',
             'url' => 'admin/blog',
             'can' => 'manage-blog',
